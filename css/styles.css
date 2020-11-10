@@ -1,0 +1,47 @@
+body {
+    background-image: url("/home/k4l1/Pictures/bb.jpg");
+    background-size: cover;
+    margin: 0px;
+}
+
+.navbar {
+    background-color: black;
+    width: 120%;
+    height: 60px;
+    /* margin-top: -30px; */
+}
+
+#title {
+    text-align: center;
+    font-size: 2.5em;
+}
+
+h2 {
+    margin-left: 100px;
+}
+
+.developmentcontent {
+    margin: auto 70px;
+}
+
+#development {
+    margin-left: 100px;
+    font-variant-caps: all-petite-caps;
+    font-weight: 300;
+    font-size: x-large;
+}
+
+#hl {
+    margin-left: 70px;
+}
+
+.ul {
+    list-style-type: none;
+}
+
+ul li {
+    color: aqua;
+    display: inline;
+    margin-right: 120px;
+    text-align: center;
+}
